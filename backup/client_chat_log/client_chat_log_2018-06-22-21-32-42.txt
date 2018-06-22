@@ -1,0 +1,9 @@
+[00:14:24]: [Death Announcement] 刘醒 死亡，死因： 火。他成了一个令人毛骨悚然的鬼！
+[00:14:27]: [Resurrect Announcement] 刘醒 复活自 骨架.
+[00:14:35]: [Death Announcement] 刘醒 死亡，死因： 熔岩幼虫。他成了一个令人毛骨悚然的鬼！
+[00:14:36]: [Resurrect Announcement] 刘醒 复活自 骨架.
+[00:15:08]: [Death Announcement] 刘醒 死亡，死因： 龙蝇。他成了一个令人毛骨悚然的鬼！
+[00:15:09]: [Resurrect Announcement] 刘醒 复活自 骨架.
+[00:18:30]: [Death Announcement] 刘醒 死亡，死因： 火。他成了一个令人毛骨悚然的鬼！
+[00:18:31]: [Resurrect Announcement] 刘醒 复活自 骨架.
+[00:18:37]: [Death Announcement] 刘醒 死亡，死因： 龙蝇。他成了一个令人毛骨悚然的鬼！
