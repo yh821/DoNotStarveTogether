@@ -29,6 +29,7 @@ KLEI     1 return {
         ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=250 }, enabled=true },
         ["workshop-375850593"]={ configuration_options={  }, enabled=true },
         ["workshop-396026892"]={ configuration_options={ OPT_DIFFICULTY=1 }, enabled=true },
+        ["workshop-410900681"]={ configuration_options={  }, enabled=true },
         ["workshop-444235588"]={
           configuration_options={
             deluxeEndoFirepitBurnRate=0.75,
