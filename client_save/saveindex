@@ -29,7 +29,6 @@ KLEI     1 return {
         ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=250 }, enabled=true },
         ["workshop-375850593"]={ configuration_options={  }, enabled=true },
         ["workshop-396026892"]={ configuration_options={ OPT_DIFFICULTY=1 }, enabled=true },
-        ["workshop-410900681"]={ configuration_options={  }, enabled=true },
         ["workshop-444235588"]={
           configuration_options={
             deluxeEndoFirepitBurnRate=0.75,
@@ -40,7 +39,7 @@ KLEI     1 return {
             heatStarDropLoot="yes",
             iceStarBurnRate=0.9,
             iceStarDropLoot="yes",
-            recipeCost="standard",
+            recipeCost="cheap",
             starsSpawnHounds="no" 
           },
           enabled=true 
@@ -82,7 +81,6 @@ KLEI     1 return {
             TORCH_DURABILITY="Infinite",
             TORCH_RADIUS=false,
             TRAP_DURABILITY="Infinite",
-            WALL_DURABILITY="Default",
             WEAPON_DURABILITY="Infinite" 
           },
           enabled=true 
@@ -103,7 +101,7 @@ KLEI     1 return {
             red_baoshi=16,
             shishengzhang=1,
             shitoubaolv=3,
-            thulecite_xiukuang=16,
+            thulecite_xiukuang=32,
             wajuecishu=2,
             yellow_baoshi=12,
             yi_shuoming=0 
@@ -121,7 +119,7 @@ KLEI     1 return {
         },
         ["workshop-655236052"]={
           configuration_options={
-            ancientaltar="altar broken",
+            ancientaltar="ancient altar",
             antlers="enabled",
             armorskeleton="enabled",
             armorsnurtleshell="enabled",
