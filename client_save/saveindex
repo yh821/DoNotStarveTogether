@@ -19,6 +19,16 @@ KLEI     1 return {
           configuration_options={ bekkitt_skeleton_pen=0, null_option=true, skeleton_player=true },
           enabled=true 
         },
+        ["workshop-1358449098"]={
+          configuration_options={
+            [""]=0,
+            OptionCheckingForFollowers=1,
+            OptionHUDdown=0,
+            OptionHUDhorizontal=0,
+            OptionMaxFollowers=6 
+          },
+          enabled=true 
+        },
         ["workshop-356435289"]={ configuration_options={ fishfarmrecipe="easy" }, enabled=true },
         ["workshop-361994110"]={
           configuration_options={ HAT_DECAY=false, RELEASE_BEES=false, SPRING_BEES=true },
@@ -81,6 +91,7 @@ KLEI     1 return {
             TORCH_DURABILITY="Infinite",
             TORCH_RADIUS=false,
             TRAP_DURABILITY="Infinite",
+            WALL_DURABILITY="Default",
             WEAPON_DURABILITY="Infinite" 
           },
           enabled=true 
