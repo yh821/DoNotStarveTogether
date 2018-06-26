@@ -231,6 +231,7 @@ KLEI     1 return {
           configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
           enabled=true 
         },
+        ["workshop-800210142"]={ configuration_options={ language=2 }, enabled=true },
         ["workshop-817025783"]={ configuration_options={  }, enabled=true },
         ["workshop-842821674"]={ configuration_options={ ["Logs burn into charcoal"]=true }, enabled=true },
         ["workshop-858801295"]={
