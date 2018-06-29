@@ -161,9 +161,10 @@ return {
       STAFF_DURABILITY="Infinite",
       SWORD_DURABILITY="Infinite",
       TOOL_DURABILITY="Infinite",
-      TORCH_DURABILITY="Default",
+      TORCH_DURABILITY="Infinite",
       TORCH_RADIUS=false,
       TRAP_DURABILITY="Infinite",
+      WALL_DURABILITY="Default",
       WEAPON_DURABILITY="Infinite" 
     },
     enabled=true 
@@ -185,7 +186,7 @@ return {
       shishengzhang=10,
       shitoubaolv=1,
       thulecite_xiukuang=1,
-      wajuecishu=2,
+      wajuecishu=1,
       yellow_baoshi=1,
       yi_shuoming=0 
     },
