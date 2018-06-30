@@ -155,7 +155,7 @@ return {
       HEATROCK_DURABILITY="Infinite",
       ICEBOX_TUNING=0,
       LIGHT_DURABILITY="Infinite",
-      PRIMARYTOOL_DURABILITY="Default",
+      PRIMARYTOOL_DURABILITY="Infinite",
       PROJECTILE_DURABILITY="Infinite",
       SEWINGKIT_DURABILITY="Infinite",
       STAFF_DURABILITY="Infinite",
@@ -185,7 +185,7 @@ return {
       shishengzhang=10,
       shitoubaolv=1,
       thulecite_xiukuang=1,
-      wajuecishu=1,
+      wajuecishu=2,
       yellow_baoshi=1,
       yi_shuoming=0 
     },
