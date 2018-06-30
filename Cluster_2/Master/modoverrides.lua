@@ -141,7 +141,7 @@ return {
     configuration_options={
       AMULET_DURABILITY="Infinite",
       ARMOR_DURABILITY="Infinite",
-      AUTORETRAP=false,
+      AUTORETRAP=true,
       BEEFALO_DURABILITY="Infinite",
       BEEFALO_RUNSPEED="Default",
       BOOK_DURABILITY="Infinite",
@@ -164,7 +164,6 @@ return {
       TORCH_DURABILITY="Infinite",
       TORCH_RADIUS=false,
       TRAP_DURABILITY="Infinite",
-      WALL_DURABILITY="Default",
       WEAPON_DURABILITY="Infinite" 
     },
     enabled=true 
