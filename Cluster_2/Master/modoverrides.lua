@@ -164,6 +164,7 @@ return {
       TORCH_DURABILITY="Infinite",
       TORCH_RADIUS=false,
       TRAP_DURABILITY="Infinite",
+      WALL_DURABILITY="Default",
       WEAPON_DURABILITY="Infinite" 
     },
     enabled=true 
