@@ -64,6 +64,7 @@ return {
       RevealMapAtStart=false,
       RuinedBaseOption=2,
       RuinsCampOption=4,
+      ShowWorldGenWarnings=true,
       SimpleBaseOption=2,
       SinkBaseOption=9,
       SpiralOption=1,
@@ -127,6 +128,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-447092740"]={ configuration_options={  }, enabled=true },
   ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
   ["workshop-572538624"]={
     configuration_options={
@@ -161,7 +163,7 @@ return {
       STAFF_DURABILITY="Infinite",
       SWORD_DURABILITY="Infinite",
       TOOL_DURABILITY="Infinite",
-      TORCH_DURABILITY="Infinite",
+      TORCH_DURABILITY="Default",
       TORCH_RADIUS=false,
       TRAP_DURABILITY="Infinite",
       WALL_DURABILITY="Default",
