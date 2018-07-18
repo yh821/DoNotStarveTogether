@@ -166,6 +166,7 @@ return {
       TORCH_DURABILITY="Default",
       TORCH_RADIUS=false,
       TRAP_DURABILITY="Infinite",
+      WALL_DURABILITY="Default",
       WEAPON_DURABILITY="Infinite" 
     },
     enabled=true 
@@ -209,7 +210,7 @@ return {
       armorskeleton="enabled",
       armorsnurtleshell="enabled",
       atriumkey="enabled",
-      babybeefalo="disabled",
+      babybeefalo="enabled",
       batcave="disabled",
       beardhair="disabled",
       beehive="disabled",
@@ -276,7 +277,7 @@ return {
       thurible="enabled",
       walruscamp="enabled",
       walrushat="enabled",
-      wasphive="disabled",
+      wasphive="enabled",
       wormlight="enabled",
       wormlightplant="enabled" 
     },
