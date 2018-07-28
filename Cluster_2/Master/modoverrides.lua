@@ -20,6 +20,7 @@ return {
       DeciduousPondOption=3,
       FarmplotOption=5,
       FisherPigOption=1,
+      ForceOutsideTasksOutside=true,
       GlobalBiomeSize=3,
       GrottoOption=12,
       InfusedWorldsRandomOptionalBiomes=15,
@@ -56,6 +57,7 @@ return {
       PigShrineOption=0,
       PigTownOption=1,
       RabbitTownOption=2,
+      RandomBasementSetpiece=1,
       RandomOptionalBiomes=12,
       RandomOptionalCaveBiomes=16,
       RandomOptionalRuins=0.66,
@@ -71,7 +73,9 @@ return {
       StoneHengeOption=4,
       SwampPigOption=1,
       VillageSquareOption=1,
+      VolcanoCenterOcean=true,
       VolcanoDragonflySpawn=1,
+      VolcanoRandomOceanBiomes=0.5,
       WorldShape=6 
     },
     enabled=true 
@@ -92,6 +96,32 @@ return {
     configuration_options={ bekkitt_skeleton_pen=0, null_option=true, skeleton_player=true },
     enabled=true 
   },
+  ["workshop-1328494280"]={
+    configuration_options={
+      dxzy_times=0,
+      game_level=0,
+      gjgw_times=0,
+      gjsw_times=0,
+      gjzy_times=1,
+      gzlt_times=1,
+      hyzs_times=100,
+      jcdj_times=0,
+      jcsw_times=0,
+      jczb_times=0,
+      jczy_times=0,
+      jjdj_times=0,
+      jjgw_times=0,
+      jjzb_times=0,
+      ptgw_times=0,
+      spll_times=0,
+      tsfl_times=100,
+      xydj_times=0,
+      xyzb_times=0,
+      xyzy_times=100,
+      zyzs_switch=true 
+    },
+    enabled=true 
+  },
   ["workshop-1358449098"]={
     configuration_options={
       [""]=0,
@@ -102,6 +132,22 @@ return {
     },
     enabled=true 
   },
+  ["workshop-1418746242"]={
+    configuration_options={
+      clearfont=true,
+      eventplus=true,
+      extratrans=true,
+      ["workshop-1422039508"]=0,
+      ["workshop-345692228"]=0,
+      ["workshop-351325790"]=0,
+      ["workshop-352373173"]=0,
+      ["workshop-376333686"]=0,
+      ["workshop-378160973"]=0,
+      ["workshop-458587300"]=0,
+      ["workshop-609051112"]=0 
+    },
+    enabled=true 
+  },
   ["workshop-356435289"]={ configuration_options={ fishfarmrecipe="easy" }, enabled=true },
   ["workshop-361994110"]={
     configuration_options={ HAT_DECAY=false, RELEASE_BEES=false, SPRING_BEES=true },
@@ -109,6 +155,7 @@ return {
   },
   ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
   ["workshop-363112314"]={ configuration_options={  }, enabled=true },
+  ["workshop-367546858"]={ configuration_options={ LANG="auto", SMALL_TEXTURES=true }, enabled=true },
   ["workshop-373653812"]={ configuration_options={  }, enabled=true },
   ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=250 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
@@ -170,6 +217,7 @@ return {
     },
     enabled=true 
   },
+  ["workshop-588560555"]={ configuration_options={  }, enabled=true },
   ["workshop-599498678"]={ configuration_options={  }, enabled=true },
   ["workshop-604761020"]={
     configuration_options={
