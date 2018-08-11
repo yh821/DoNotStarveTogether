@@ -1,8 +1,89 @@
 KLEI     1 return {
-  last_used_slot=2,
+  last_used_slot=1,
   slots={
     {
       enabled_mods={
+        ["workshop-1073203411"]={
+          configuration_options={
+            [""]=0,
+            AltarRoomOption=1,
+            AncientFuelweaverSpawn=true,
+            AncientGuardianSpawn=0.5,
+            BrokenAltarOption=1,
+            CaveBaseOption=9,
+            CaveTasksEnabled=true,
+            ChessSpot1Option=1,
+            ChessSpot2Option=1,
+            ChessSpot3Option=1,
+            Chessy1Option=1,
+            Chessy2Option=1,
+            Chessy3Option=1,
+            Chessy4Option=1,
+            Chessy5Option=1,
+            Chessy6Option=1,
+            DeciduousPondOption=3,
+            FarmplotOption=5,
+            FisherPigOption=1,
+            ForceOutsideTasksOutside=true,
+            GlobalBiomeSize=3,
+            GrottoOption=12,
+            InfusedWorldsRandomOptionalBiomes=15,
+            LightsOutStartingItems=0,
+            LivingTreeOption=2,
+            MacTuskCityOption=1,
+            MacTuskTownOption=1,
+            Maxwell1Option=1,
+            Maxwell2Option=1,
+            Maxwell3Option=1,
+            Maxwell4Option=1,
+            Maxwell5Option=1,
+            Maxwell6Option=1,
+            Maxwell7Option=1,
+            MermShrineOption=1,
+            MilitaryEntranceOption=1,
+            MooseSpawn=9,
+            MultiTasksBeachEnabled=4,
+            MultiTasksBeaverEnabled=4,
+            MultiTasksChezzEnabled=4,
+            MultiTasksCuteEnabled=4,
+            MultiTasksEnabled=true,
+            MultiTasksFireEnabled=4,
+            MultiTasksGrayEnabled=4,
+            MultiTasksJungleEnabled=4,
+            MultiTasksSlimeyEnabled=4,
+            MultiTasksSnowEnabled=4,
+            MultiworldsPigkingOption=2,
+            MushBaseOption=9,
+            OverworldEarthquakes=false,
+            OverworldNightmarePhase=1,
+            OverworldNightmarePhaseHUDEffects=true,
+            PigGuardsOption=1,
+            PigShrineOption=0,
+            PigTownOption=1,
+            RabbitTownOption=2,
+            RandomBasementSetpiece=1,
+            RandomOptionalBiomes=12,
+            RandomOptionalCaveBiomes=16,
+            RandomOptionalRuins=0.66,
+            RandomSpawn=false,
+            ResurrectionStoneOption=2,
+            RevealMapAtStart=false,
+            RuinedBaseOption=2,
+            RuinsCampOption=4,
+            ShowWorldGenWarnings=true,
+            SimpleBaseOption=2,
+            SinkBaseOption=9,
+            SpiralOption=1,
+            StoneHengeOption=4,
+            SwampPigOption=1,
+            VillageSquareOption=1,
+            VolcanoCenterOcean=true,
+            VolcanoDragonflySpawn=1,
+            VolcanoRandomOceanBiomes=0.5,
+            WorldShape=6 
+          },
+          enabled=true 
+        },
         ["workshop-1185229307"]={ configuration_options={  }, enabled=true },
         ["workshop-1207269058"]={
           configuration_options={
@@ -19,6 +100,32 @@ KLEI     1 return {
           configuration_options={ bekkitt_skeleton_pen=0, null_option=true, skeleton_player=true },
           enabled=true 
         },
+        ["workshop-1328494280"]={
+          configuration_options={
+            dxzy_times=0,
+            game_level=0,
+            gjgw_times=0,
+            gjsw_times=0,
+            gjzy_times=1,
+            gzlt_times=100,
+            hyzs_times=1,
+            jcdj_times=0,
+            jcsw_times=0,
+            jczb_times=0,
+            jczy_times=0,
+            jjdj_times=0,
+            jjgw_times=0,
+            jjzb_times=0,
+            ptgw_times=0,
+            spll_times=0,
+            tsfl_times=1,
+            xydj_times=0,
+            xyzb_times=0,
+            xyzy_times=1,
+            zyzs_switch=true 
+          },
+          enabled=true 
+        },
         ["workshop-1358449098"]={
           configuration_options={
             [""]=0,
@@ -29,15 +136,44 @@ KLEI     1 return {
           },
           enabled=true 
         },
+        ["workshop-1418746242"]={
+          configuration_options={
+            clearfont=true,
+            eventplus=true,
+            extratrans=true,
+            ["workshop-1422039508"]=0,
+            ["workshop-345692228"]=0,
+            ["workshop-351325790"]=0,
+            ["workshop-352373173"]=0,
+            ["workshop-376333686"]=0,
+            ["workshop-378160973"]=0,
+            ["workshop-458587300"]=0,
+            ["workshop-609051112"]=0 
+          },
+          enabled=true 
+        },
         ["workshop-356435289"]={ configuration_options={ fishfarmrecipe="easy" }, enabled=true },
         ["workshop-361994110"]={
           configuration_options={ HAT_DECAY=false, RELEASE_BEES=false, SPRING_BEES=true },
           enabled=true 
         },
         ["workshop-362175979"]={ configuration_options={ ["Draw over FoW"]="disabled" }, enabled=true },
-        ["workshop-373653812"]={ configuration_options={  }, enabled=true },
+        ["workshop-363112314"]={ configuration_options={  }, enabled=true },
+        ["workshop-367546858"]={ configuration_options={ LANG="auto", SMALL_TEXTURES=true }, enabled=true },
         ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=250 }, enabled=true },
         ["workshop-375850593"]={ configuration_options={  }, enabled=true },
+        ["workshop-378160973"]={
+          configuration_options={
+            ENABLEPINGS=true,
+            FIREOPTIONS=2,
+            OVERRIDEMODE=false,
+            SHAREMINIMAPPROGRESS=true,
+            SHOWFIREICONS=true,
+            SHOWPLAYERICONS=true,
+            SHOWPLAYERSOPTIONS=2 
+          },
+          enabled=true 
+        },
         ["workshop-396026892"]={ configuration_options={ OPT_DIFFICULTY=1 }, enabled=true },
         ["workshop-444235588"]={
           configuration_options={
@@ -54,16 +190,8 @@ KLEI     1 return {
           },
           enabled=true 
         },
+        ["workshop-447092740"]={ configuration_options={  }, enabled=true },
         ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
-        ["workshop-572538624"]={
-          configuration_options={
-            IS_CHS_ALL_MOD=true,
-            IS_CHS_CHARACTER=true,
-            IS_CHS_FIX_ALL=true,
-            IS_CHS_SETTINGS=true 
-          },
-          enabled=true 
-        },
         ["workshop-576950543"]={
           configuration_options={
             AMULET_DURABILITY="Infinite",
@@ -91,34 +219,12 @@ KLEI     1 return {
             TORCH_DURABILITY="Infinite",
             TORCH_RADIUS=false,
             TRAP_DURABILITY="Infinite",
-            WALL_DURABILITY="Default",
             WEAPON_DURABILITY="Infinite" 
           },
           enabled=true 
         },
+        ["workshop-588560555"]={ configuration_options={  }, enabled=true },
         ["workshop-599498678"]={ configuration_options={  }, enabled=true },
-        ["workshop-604761020"]={
-          configuration_options={
-            RUOYINXIAN=false,
-            SHENGDANSHI=false,
-            baoshibaolv=1,
-            blue_baoshi=10,
-            er_shuoming=0,
-            green_baoshi=16,
-            huangjinbaolv=3,
-            marble_suipian=16,
-            orange_baoshi=16,
-            purple_baoshi=12,
-            red_baoshi=16,
-            shishengzhang=1,
-            shitoubaolv=3,
-            thulecite_xiukuang=32,
-            wajuecishu=2,
-            yellow_baoshi=12,
-            yi_shuoming=0 
-          },
-          enabled=true 
-        },
         ["workshop-622448972"]={
           configuration_options={
             health_enhance=false,
@@ -216,6 +322,20 @@ KLEI     1 return {
           configuration_options={ twigs_to_create=10, twigs_to_create_a_log=1 },
           enabled=true 
         },
+        ["workshop-726432903"]={
+          configuration_options={
+            Connections={ ["1"]={ "11", "12" }, ["11"]={ "12" } },
+            DeleteUnused=1,
+            EnableStartingItems=0,
+            MultiConnections={  },
+            SynchronizeSeasons=1,
+            UseDefaultLocations=1,
+            UseMigrationPortals=0,
+            UseMultiShards=0,
+            WorldNames={  } 
+          },
+          enabled=true 
+        },
         ["workshop-758532836"]={
           configuration_options={
             AUTOPAUSECONSOLE=true,
@@ -223,7 +343,7 @@ KLEI     1 return {
             AUTOPAUSESINGLEPLAYERONLY=true,
             ENABLECLIENTPAUSE=false,
             ENABLEHOTKEY=true,
-            KEYBOARDTOGGLEKEY="P" 
+            KEYBOARDTOGGLEKEY="R" 
           },
           enabled=true 
         },
@@ -231,8 +351,7 @@ KLEI     1 return {
           configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
           enabled=true 
         },
-        ["workshop-800210142"]={ configuration_options={ language=2 }, enabled=true },
-        ["workshop-817025783"]={ configuration_options={  }, enabled=true },
+        ["workshop-788825160"]={ configuration_options={ keycodep=112 }, enabled=true },
         ["workshop-842821674"]={ configuration_options={ ["Logs burn into charcoal"]=true }, enabled=true },
         ["workshop-858801295"]={
           configuration_options={ config_fuel_max=150, config_recipe=1, config_spawn_time=15 },
@@ -249,20 +368,20 @@ KLEI     1 return {
         name="刘醒的世界",
         online_mode=true,
         password="",
-        privacy_type=2,
+        privacy_type=1,
         pvp=false 
       },
-      session_id="55341EE47EC1F3CB",
+      session_id="4716B92097B2BC81",
       world={
         options={
           {
-            desc="The standard Don't Starve experience.",
+            desc="标准的饥荒联机体验。",
             hideminimap=false,
             id="SURVIVAL_TOGETHER",
             location="forest",
             max_playlist_position=999,
             min_playlist_position=0,
-            name="Default",
+            name="默认",
             numrandom_set_pieces=4,
             ordered_story_setpieces={ "Sculptures_1", "Maxwell5" },
             override_level_string=false,
@@ -335,7 +454,7 @@ KLEI     1 return {
               tentacles="default",
               touchstone="default",
               trees="default",
-              tumbleweed="default",
+              tumbleweed="often",
               walrus="default",
               weather="default",
               wildfires="default",
@@ -551,15 +670,6 @@ KLEI     1 return {
         },
         ["workshop-447092740"]={ configuration_options={  }, enabled=true },
         ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
-        ["workshop-572538624"]={
-          configuration_options={
-            IS_CHS_ALL_MOD=true,
-            IS_CHS_CHARACTER=true,
-            IS_CHS_FIX_ALL=true,
-            IS_CHS_SETTINGS=true 
-          },
-          enabled=true 
-        },
         ["workshop-576950543"]={
           configuration_options={
             AMULET_DURABILITY="Infinite",

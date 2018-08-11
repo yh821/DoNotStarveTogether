@@ -177,15 +177,6 @@ return {
   },
   ["workshop-447092740"]={ configuration_options={  }, enabled=true },
   ["workshop-458587300"]={ configuration_options={ Ownership=false, Travel_Cost=32 }, enabled=true },
-  ["workshop-572538624"]={
-    configuration_options={
-      IS_CHS_ALL_MOD=true,
-      IS_CHS_CHARACTER=true,
-      IS_CHS_FIX_ALL=true,
-      IS_CHS_SETTINGS=true 
-    },
-    enabled=true 
-  },
   ["workshop-576950543"]={
     configuration_options={
       AMULET_DURABILITY="Infinite",
