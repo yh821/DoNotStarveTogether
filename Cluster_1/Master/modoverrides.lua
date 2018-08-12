@@ -73,9 +73,11 @@ return {
       StoneHengeOption=4,
       SwampPigOption=1,
       VillageSquareOption=1,
+      VolcanoBeachStart=true,
       VolcanoCenterOcean=true,
       VolcanoDragonflySpawn=1,
       VolcanoRandomOceanBiomes=0.5,
+      VolcanoWaterGeneration=true,
       WorldShape=6 
     },
     enabled=true 
