@@ -105,8 +105,8 @@ return {
       gjgw_times=0,
       gjsw_times=0,
       gjzy_times=1,
-      gzlt_times=100,
-      hyzs_times=1,
+      gzlt_times=0,
+      hyzs_times=20,
       jcdj_times=0,
       jcsw_times=0,
       jczb_times=0,
@@ -116,21 +116,11 @@ return {
       jjzb_times=0,
       ptgw_times=0,
       spll_times=0,
-      tsfl_times=1,
+      tsfl_times=10,
       xydj_times=0,
       xyzb_times=0,
       xyzy_times=1,
       zyzs_switch=true 
-    },
-    enabled=true 
-  },
-  ["workshop-1358449098"]={
-    configuration_options={
-      [""]=0,
-      OptionCheckingForFollowers=1,
-      OptionHUDdown=0,
-      OptionHUDhorizontal=0,
-      OptionMaxFollowers=6 
     },
     enabled=true 
   },
@@ -150,7 +140,6 @@ return {
     },
     enabled=true 
   },
-  ["workshop-356435289"]={ configuration_options={ fishfarmrecipe="easy" }, enabled=true },
   ["workshop-361994110"]={
     configuration_options={ HAT_DECAY=false, RELEASE_BEES=false, SPRING_BEES=true },
     enabled=true 
@@ -160,18 +149,6 @@ return {
   ["workshop-367546858"]={ configuration_options={ LANG="auto", SMALL_TEXTURES=true }, enabled=true },
   ["workshop-374550642"]={ configuration_options={ MAXSTACKSIZE=250 }, enabled=true },
   ["workshop-375850593"]={ configuration_options={  }, enabled=true },
-  ["workshop-378160973"]={
-    configuration_options={
-      ENABLEPINGS=true,
-      FIREOPTIONS=2,
-      OVERRIDEMODE=false,
-      SHAREMINIMAPPROGRESS=true,
-      SHOWFIREICONS=true,
-      SHOWPLAYERICONS=true,
-      SHOWPLAYERSOPTIONS=2 
-    },
-    enabled=true 
-  },
   ["workshop-396026892"]={ configuration_options={ OPT_DIFFICULTY=1 }, enabled=true },
   ["workshop-444235588"]={
     configuration_options={
@@ -349,7 +326,6 @@ return {
     configuration_options={ ENABLEBACKPACK=false, EXTRASLOT=0, INVENTORYSIZE=45 },
     enabled=true 
   },
-  ["workshop-788825160"]={ configuration_options={ keycodep=112 }, enabled=true },
   ["workshop-842821674"]={ configuration_options={ ["Logs burn into charcoal"]=true }, enabled=true },
   ["workshop-858801295"]={
     configuration_options={ config_fuel_max=150, config_recipe=1, config_spawn_time=15 },
